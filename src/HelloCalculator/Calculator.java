@@ -7,7 +7,7 @@ package HelloCalculator;
 
 /**
  *
- * @author Javarizer
+ * @author hellotunmbi
  */
 public class Calculator extends javax.swing.JFrame {
     
